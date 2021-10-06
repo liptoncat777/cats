@@ -1,0 +1,22 @@
+p{
+    font-family:serif;
+    font-size: 30px;
+    font-style: italic;
+    color: rgb(164, 228, 240);
+
+}
+
+li {
+    color: rgb(164, 228, 240);
+}
+h1{
+    color: rgb(164, 228, 240);
+    font-size: 50px;
+}
+h2{
+    color: rgb(164, 228, 240);
+    font-size: 30px;
+}
+body{
+    background-color: rgb(0, 2, 2);
+}
